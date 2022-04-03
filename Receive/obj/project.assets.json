@@ -115,11 +115,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\Repos\\MessageQueue\\Receive\\Receive.csproj",
+      "projectUniqueName": "D:\\repos\\MessageQueue\\Receive\\Receive.csproj",
       "projectName": "Receive",
-      "projectPath": "e:\\Repos\\MessageQueue\\Receive\\Receive.csproj",
+      "projectPath": "D:\\repos\\MessageQueue\\Receive\\Receive.csproj",
       "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-      "outputPath": "e:\\Repos\\MessageQueue\\Receive\\obj\\",
+      "outputPath": "D:\\repos\\MessageQueue\\Receive\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -171,7 +171,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jBIF5pmrEVgl9VpN+/Yq/hnks5sU1E4esht21OTp29LVDU7JJTCVOVEOQacHfrvbxEtgMhjTK1MEuTASWML9Bg==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\MessageQueue\\TaskCreator\\TaskCreator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\rabbitmq.client\\6.2.4\\rabbitmq.client.6.2.4.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

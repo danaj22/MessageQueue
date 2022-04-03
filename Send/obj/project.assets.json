@@ -115,11 +115,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\Repos\\MessageQueue\\Send\\Send.csproj",
+      "projectUniqueName": "D:\\repos\\MessageQueue\\Send\\Send.csproj",
       "projectName": "Send",
-      "projectPath": "e:\\Repos\\MessageQueue\\Send\\Send.csproj",
+      "projectPath": "D:\\repos\\MessageQueue\\Send\\Send.csproj",
       "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-      "outputPath": "e:\\Repos\\MessageQueue\\Send\\obj\\",
+      "outputPath": "D:\\repos\\MessageQueue\\Send\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -171,7 +171,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }
